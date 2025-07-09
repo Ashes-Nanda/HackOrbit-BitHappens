@@ -22,3 +22,60 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.Spotlight-V100
+.Trashes
+.fseventsd
+.volumeicon.icns
+.AppleDouble
+.LSOverride
+Icon?
+
+# Build output
+build
+coverage
+out
+.next
+.vercel
+.turbo
+
+# Environment files
+.env
+.env.*
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Miscellaneous
+*.tgz
+*.zip
+*.bak
+*.tmp
+*.swp
+*.swo
+*.orig
+*.rej
+
+# Dependency directories
+bower_components
+.pnp
+.pnp.js
+.yarn/cache
+.yarn/unplugged
+.yarn/build-state.yml
+.yarn/install-state.gz
+.yarn/patches
+.yarn/releases
+.yarn/plugins
+.yarn/sdks
+.yarn/versions
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
